@@ -1,5 +1,5 @@
 [package]
-name = "Multithreaded_web_server"
+name = "multithreaded_web_server"
 version = "0.1.0"
 authors = ["Sushma Biswas"]
 edition = "2018"
